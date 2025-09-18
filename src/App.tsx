@@ -6,8 +6,8 @@ function App() {
       <div className="flex flex-col gap-14">
         {/* <h1 className="text-3xl font-bold underline">Hello world!</h1> */}
 
-        <a href="boapp://customer/Loan/view/123">
-          Open Customer View App (boapp://customer/Loan/view/123){" "}
+        <a href="boapp://customer/Loan/view/467">
+          Open Customer View App (boapp://customer/Loan/view/467){" "}
         </a>
 
         <a href="boapp://profile">
