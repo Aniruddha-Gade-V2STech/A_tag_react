@@ -7,7 +7,11 @@ function App() {
         {/* <h1 className="text-3xl font-bold underline">Hello world!</h1> */}
 
         <a href="boapp://customer/Loan/view/123">
-          Open Customer App (boapp://customer/Loan/view/123){" "}
+          Open Customer View App (boapp://customer/Loan/view/123){" "}
+        </a>
+
+        <a href="boapp://profile">
+          Open Profile App (boapp://profile){" "}
         </a>
 
         <a href="boapp://customer/Customer-Onboarding/view/123">
